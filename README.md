@@ -19,10 +19,11 @@ It checks if a number contains **different digits**, shuffles them, and performs
 ```
 
 MagicNine/
-├── main.py         # Application entry point
-└── utils/
-├── **init**.py
-└── helper.py       # Reusable helper functions
+│
+├── main.py            # Application entry point
+├── utils/
+│   ├── __init__.py
+│   └── helper.py      # Reusable helper functions
 
 ````
 
