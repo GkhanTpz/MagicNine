@@ -62,7 +62,7 @@ Enter a number with at least two digits (at least one digit must be different): 
 The number: 321
 Shuffled number: 213
 Difference between numbers: 108
-Digit sum: 9
+['1', '0', '8'] = 9
 ```
 
 ---
